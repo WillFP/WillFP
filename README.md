@@ -11,7 +11,7 @@
 <hr>
 
 <h2 align="center">
-  <a href="https://github.com/Auxilor">h
+  <a href="https://github.com/Auxilor">
     <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Auxilor&show_icons=true&theme=onedark">
   </a>
   <br>
