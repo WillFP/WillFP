@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="https://img.shields.io/github/followers/Auxilor?label=Followers&style=for-the-badge&color=blue">
+  <img src="https://img.shields.io/github/followers/WillFP?label=Followers&style=for-the-badge&color=blue">
   <a href="https://discord.gg/ZcwpSsE/" alt="Discord">
       <img src="https://img.shields.io/discord/452518336627081236?label=discord&style=for-the-badge&color=blue"/>
   </a>
@@ -12,10 +12,10 @@
 
 <h2 align="center">
   <a href="https://github.com/Auxilor">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Auxilor&show_icons=true&theme=onedark">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=WillFP&show_icons=true&theme=onedark">
   </a>
   <br>
   <a href="https://github.com/Auxilor">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Auxilor&layout=compact&theme=onedark">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillFP&layout=compact&theme=onedark">
   </a>
 </h2>
