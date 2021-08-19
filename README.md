@@ -19,3 +19,15 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillFP&layout=compact&theme=onedark">
   </a>
 </h2>
+
+<br>
+
+<h2 align="center">
+  <a href="https://dedimc.promo/Auxilor">
+    <img align="center" src="https://i.imgur.com/L5Q7V18.png">
+  </a>
+  <br>
+  <a href="https://gamersupps.gg/?afmc=Auxilor">
+    <img align="center" src="https://i.imgur.com/adMQkSa.png">
+  </a>
+</h2>
