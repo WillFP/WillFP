@@ -23,6 +23,7 @@
 <br>
 
 <h1 align="center">
+  Check out my partners!
   <br>
   <div style="width: 50%; margin: 0 auto;">
   <br>
