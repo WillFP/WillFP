@@ -22,13 +22,16 @@
 
 <br>
 
-<h2 align="center">
-  <a href="https://dedimc.promo/Auxilor">
-    <img align="center" src="https://i.imgur.com/L5Q7V18.png" width="500">
-  </a>
-  
+<h1 align="center">
   <br>
-  <a href="https://gamersupps.gg/?afmc=Auxilor">
-    <img align="center" src="https://i.imgur.com/adMQkSa.png" width="500">
-  </a>
-</h2>
+  <div style="width: 50%; margin: 0 auto;">
+  <br>
+    <a href="https://gamersupps.gg/discount/Auxilor?afmc=Auxilor" target="_blank">
+      <img src="https://i.imgur.com/7mFhlQO.png" alt="supps banner">
+    </a>
+    <a href="https://dedimc.promo/Auxilor" target="_blank">
+      <img src="https://i.imgur.com/x9aeH38.png" alt="dedimc banner">
+    </a>
+  <br>
+  </div>
+</h1>
